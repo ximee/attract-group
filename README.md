@@ -9,4 +9,3 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - /api/users/except-me;
 - /messages/send/users/{id}   //all messages sent by me to user with id:{id};
 - /api/messages/received/users/{id}  //all messages received by me from user with id:{id}.
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
